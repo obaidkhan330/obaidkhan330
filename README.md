@@ -39,7 +39,7 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,bootstrap,js,jquery,python,flutter,dart,linux,git&perline=7" alt="Tech stack icons">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,bootstrap,js,jquery,python,flutter,postman,dart,git&perline=7" alt="Tech stack icons">
 </p>
 
 <p>
