@@ -30,7 +30,6 @@
 
 ## Featured Projects
 
-- **Warehouse Management System (WMS)** — A Laravel 12 system for a China–Pakistan trading company, featuring Serial 360 traceability, 14 roles, 12 permissions, and two-way Fast Accounts API synchronization.
 - **Electronic Parts Data Scraper** — A resumable, one-click Python scraper that exports Octopart-style CSV data, with a target of one million records.
 - **Pizza Places App** — A multi-store platform with a web admin panel for registering pizza shops and a customer app for discovering nearby stores and placing orders.
 - **Web Agency Platform** — A multi-page Laravel website with service pages and a project showcase.
